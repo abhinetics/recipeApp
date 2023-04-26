@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    justify-content: row;
+    align-items: center;
+    text-align: center;
+
+}
+.icon{
+    align-items: center;
+    text-align: center;
+    height: 30px;
+    width: 30px;
+    left: 5px;
+    
+}
